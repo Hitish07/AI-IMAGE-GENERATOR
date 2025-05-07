@@ -55,7 +55,7 @@ To run the program locally, follow these steps:
    - Some mode;s require you accept their license agreements. If you plan to use the newest stable diffusion model you must accept the license [here](https://huggingface.co/stabilityai/stable-diffusion-3.5-large).
 
 10. **Choose the Script to Run**:
-   - You can choose to run either `2-1.py` or `3-5.py`:
+   - You can run:
      - `Genearte.py`: Suitable for most systems.
      
 
