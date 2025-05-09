@@ -1,6 +1,8 @@
-diffusers[torch]
-huggingface_hub
+torch
+torchvision
+torchaudio
+diffusers
 transformers
-accelerate
-sentencepiece
-protobuf
+matplotlib
+pillow
+xformers (optional)
